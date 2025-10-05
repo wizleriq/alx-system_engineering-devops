@@ -1,2 +1,2 @@
 #!/bin/bash
-f(){ local BEST="School"; }
+local BEST="School"
