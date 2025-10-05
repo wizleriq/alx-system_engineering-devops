@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "ibase=$(echo $WATER | tr 'ewatrti.' '0123456789'); \
-obase=$(echo bestchol | tr -d '\n')"; 
+echo $(( $(echo $WATER | tr 'ewatratewa' '0123456789') + $(echo $STIR | tr 'ti.itirtrtr' '0123456789') )) | tr '0123456789' 'bestchol'
