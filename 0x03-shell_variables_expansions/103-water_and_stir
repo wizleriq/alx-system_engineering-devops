@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "ibase=$(echo $WATER | tr 'ewatrti.' '0123456789'); \
+obase=$(echo bestchol | tr -d '\n')"; 
